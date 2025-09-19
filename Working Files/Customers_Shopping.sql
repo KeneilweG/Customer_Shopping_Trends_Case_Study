@@ -65,8 +65,6 @@ FROM shopping_db.public.customer_tb;
 (revenue-previous_revenue)/previous_revenue AS revenue_growth
 FROM shopping_db.public.customer_tb;
 
-
-
 --%Month To Month
 (August-July)/july AS month_growth
 FROM shopping_db.public.customer_tb;
