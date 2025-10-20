@@ -25,16 +25,16 @@ To turn customer shopping data into useful insights that help improve product ch
 - A new column called processdate to track when purchases happened
 
 # 🧰 Tools Used
-- Power BI: For building interactive dashboards
+- Power BI: For building interactive dashboards 
 - Google Looker Studio: For creating easy-to-share reports & building interactive dashboards
 - Miro: For planning & shaping the case study
 
 # 📊 Dashboards Included
-- Customer Demographics – Age, gender, and location breakdown
-- Product Performance – Best-selling items, categories, and review ratings
-- Customer Frequency – How often customers shop and repeat purchases
+- [Customer Demographics](https://lookerstudio.google.com/reporting/4c0772b3-715f-4b38-b1fd-08fffbb8b5c7) – Age, gender, and location breakdown
+- [Product Performance]() – Best-selling items, categories, and review ratings
+- [Customer Frequency](https://lookerstudio.google.com/reporting/4c0772b3-715f-4b38-b1fd-08fffbb8b5c7) – How often customers shop and repeat purchases
 - Customer Preference & Purchase – Size, color, payment method, and shipping type
-- Time-Based Dashboard – Daily, monthly and seasonal shopping trends using processdate
+- [Time-Based Dashboard](https://lookerstudio.google.com/reporting/4c0772b3-715f-4b38-b1fd-08fffbb8b5c7) – Daily, monthly and seasonal shopping trends using processdate
 
 # 📈 Key Findings
 - Senior customers respond well to promotions and subscriptions with 48%
